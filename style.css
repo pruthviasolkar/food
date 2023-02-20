@@ -1,0 +1,34 @@
+.info{
+   text-align: center;
+    word-spacing: 2px;
+   list-style:disc ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.contact{
+    text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+ 
+#button1{
+    margin: 0;
+    padding: 0;
+    color:grey;
+    background-color: black;
+}
+#button2{
+    margin: 0;
+    padding: 0;
+    color:grey;
+    background-color: black;
+}
+.card{
+    border-color: black;
+     border-radius: 1in;
+     border: 20px;
+     margin: 0;
+     padding: 0;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color:black;
+}
